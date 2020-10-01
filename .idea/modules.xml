@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Text_reco/.idea/Text_reco.iml" filepath="$USER_HOME$/PycharmProjects/Text_reco/.idea/Text_reco.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/adscrap/.idea/adscrap.iml" filepath="$USER_HOME$/PycharmProjects/adscrap/.idea/adscrap.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/flipkart/.idea/flipkart.iml" filepath="$USER_HOME$/PycharmProjects/flipkart/.idea/flipkart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newproj.iml" filepath="$PROJECT_DIR$/.idea/newproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wordcount-project-master/.idea/wordcount-project-master.iml" filepath="$PROJECT_DIR$/../wordcount-project-master/.idea/wordcount-project-master.iml" />
+    </modules>
+  </component>
+</project>
